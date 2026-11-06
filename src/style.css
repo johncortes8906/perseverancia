@@ -1,0 +1,7 @@
+html, body { margin: 0; height: 100%; overflow: hidden; background: #c97b4a; }
+canvas { display: block; }
+#hud {
+  position: fixed; top: 12px; left: 12px; padding: 10px 14px;
+  background: rgba(20, 10, 5, 0.6); color: #ffe9d6; border-radius: 8px;
+  font: 13px/1.5 system-ui, sans-serif; pointer-events: none;
+}
